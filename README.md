@@ -70,7 +70,10 @@ CNN-Assignment/
 
 * Accuracy: ~40–60% (basic model)
 * Loss decreases during training
+* <img width="794" height="686" alt="Screenshot 2026-04-09 225459" src="https://github.com/user-attachments/assets/60903498-70ba-4d78-8242-e03fc789ab79" />
 * Model successfully classifies CIFAR-10 images
+* <img width="821" height="732" alt="Screenshot 2026-04-09 225336" src="https://github.com/user-attachments/assets/a863cc75-b0fd-44d3-ae26-9e6aa7471015" />
+
 
 ---
 
