@@ -98,9 +98,3 @@ python main.py
 ## 📌 Conclusion
 
 The CNN model was successfully implemented and trained on the CIFAR-10 dataset. The project demonstrates the fundamentals of convolutional neural networks and image classification.
-
----
-
-## 🙌 Author
-
-Student Assignment Submission
